@@ -1,0 +1,1 @@
+# Painel administrativo para sites, blogs, etc... com laravel 5.1 #
